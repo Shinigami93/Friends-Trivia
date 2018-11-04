@@ -1,12 +1,12 @@
-var variableStringQuestion = ["What was Monica's name on her high school field hockey team?", "What do they call Ross when he gets angry?", "question3",
+var variableStringQuestion = ["What was Monica's name on her high school field hockey team?", "What do they call Ross when he gets angry?", "How Many Types of towels does Monica have",
     "question4", "question5", "question6", "question7", "question8", "question9", "question10"]
 
-var variableStringAnswerOne = ["Big Fat Goalie", "Rizzo"]
-var variableStringAnswerTwo = ["Harmonica", "Red Ross"]
-var variableStringAnswerThree = ["Laundry", "Ms.Chanandler Bong"]
-var variableStringAnswerFour = ["Rachel", "Dr. Filange"]
+var variableStringAnswerOne = ["Big Fat Goalie", "Rizzo","5"]
+var variableStringAnswerTwo = ["Harmonica", "Red Ross","7"]
+var variableStringAnswerThree = ["Laundry", "Ms.Chanandler Bong","10"]
+var variableStringAnswerFour = ["Rachel", "Dr. Filange","11"]
 
-var variableIntegerCorrectAnswer = [1,2]
+var variableIntegerCorrectAnswer = [1,2,4]
 var x = -1
 increaseTheQuestionNumber()
 
